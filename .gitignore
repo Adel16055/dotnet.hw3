@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+*.sln.iml
+*.DotSettings.user
+_ReSharper*/
+appsettings.Development.json
+*.log
+.DS_Store
